@@ -67,10 +67,3 @@
 
 1. Run main.py
 2. Ctrl + click the http://127.0.0.1:5000 displayed in terminal
-   set FLASK_ENV=development
-   ```
-3. Run the application:
-
-   ```bash
-   flask run
-   ```
